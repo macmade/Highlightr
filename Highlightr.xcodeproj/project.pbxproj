@@ -520,11 +520,11 @@
 			};
 			buildConfigurationList = 8C2FB1BC1F39118F00469D0D /* Build configuration list for PBXProject "Highlightr" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 8C2FB1B81F39118F00469D0D;
 			productRefGroup = 8C2FB1C31F39118F00469D0D /* Products */;
