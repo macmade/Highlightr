@@ -504,12 +504,12 @@
 		8C2FB1B91F39118F00469D0D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = "Illanes, Juan Pablo";
 				TargetAttributes = {
 					8C2FB1C11F39118F00469D0D = {
 						CreatedOnToolsVersion = 8.3.3;
-						LastSwiftMigration = 0830;
+						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 					};
 					8CD1AE151F391713000FDA02 = {
@@ -523,6 +523,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 8C2FB1B81F39118F00469D0D;
