@@ -514,6 +514,7 @@
 					};
 					8CD1AE151F391713000FDA02 = {
 						CreatedOnToolsVersion = 8.3.3;
+						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 					};
 				};
